@@ -9,4 +9,4 @@ DataSources Link: [Bay Wheels data](https://www.lyft.com/bikes/bay-wheels/system
 ## Community Contribution
 The rise in on-road vehicles and traffic congestion underscores the need for reliable transportation options. Through the utilization of bike-sharing systems, our goal is to alleviate traffic congestion, decrease Greenhouse Gas Emissions, and advocate for a healthier and eco-friendly mode of transportation.
 
-
+## Data Preprocessing
