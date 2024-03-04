@@ -3,6 +3,7 @@ The project aims to address the challenges arising from rapid growth of metropol
 
 ## Dataset
 The datasets consists of hourly bike rentals count on a daily basis along with aspects of weather information like temperature, humidity, wind speed, visibility, dewpoint, solar radiation, snowfall, and rainfall, and information about the season, holiday, and functioning day which are the features and the target variable is the number of bikes rented per hour and date information.
+
 Data Sources: [Bay Wheels data](https://www.lyft.com/bikes/bay-wheels/system-data), [Weather data](https://meteostat.net/en/)
 
 ## Community Contribution
