@@ -54,5 +54,5 @@ The reward and punishment structure are as follows:
 ### Metrics after hyperparameter tuning
 <img width="900" alt="Screenshot 2024-03-05 at 11 44 20 AM" src="https://github.com/abdulmahejabeen/Bike-Share-Demand-Prediction-and-Rebalancing/assets/56336879/fa611120-e390-449a-b9d2-20a7e4afe946">
 
-
-
+## References
+- We extend our appreciation to Bay Wheels for providing the trip data utilized in this study, and Meteostat for the weather data, which enriched our analysis and provided valuable insights into weather-related patterns.
