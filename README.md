@@ -23,7 +23,7 @@ Tree-Based Models: Decision Tree, Random Forest, Gradient Boosting
 
 ## Rebalancing approach
 
-
+As an extension to this project, attempt to create an intelligent bike station environment that can do the rebalancing activity without manual interruption, using reinforcement learning.
 
 ![image](https://github.com/abdulmahejabeen/Bike-Share-Demand-Prediction-and-Rebalancing/assets/56336879/284bc1e6-bcda-4c67-b4f5-4746756bf8b8)
 
