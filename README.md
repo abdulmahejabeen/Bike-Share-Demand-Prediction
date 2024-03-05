@@ -18,9 +18,8 @@ The rise in on-road vehicles and traffic congestion underscores the need for rel
 ## Proposed models 
 This Project aims to predict hourly bike share demand at a particular location on a particular day using the machine learning models.
 
-Linear Regression Models: Lasso, Ridge, Polynomial, Elastic
-
-Tree-Based Models: Decision Tree, Random Forest, Gradient Boosting
+- Linear Regression Models- Lasso, Ridge, Polynomial, Elastic
+- Tree-Based Models- Decision Tree, Random Forest, Gradient Boosting
 
 ## Rebalancing approach - Reinforcement model
 
