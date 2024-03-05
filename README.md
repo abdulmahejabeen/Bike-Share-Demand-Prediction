@@ -16,7 +16,26 @@ The rise in on-road vehicles and traffic congestion underscores the need for rel
 - scaled the features for normalization.
 
 ## Proposed models 
+This Project aims to predict hourly bike share demand at a particular location on a particular day using the machine learning models.
 
+Linear Regression Models: Lasso, Ridge, Polynomial, Elastic
+Tree-Based Models: Decision Tree, Random Forest, Gradient Boosting
 
 ## Rebalancing approach
+
+The reward and punishment structure are as follows:
+
+Reward:
+- -30 if the hourly bike stock falls outside the range [0, 100].
+- +20 if bike stock is in the range [0, 100] at 23 hours; otherwise, -20
+- -0.5 times the number of bikes eliminated every hour.
+
+Punishment:
+- -30 for falling outside the acceptable stock range.
+
+
+
+
+
+
 
