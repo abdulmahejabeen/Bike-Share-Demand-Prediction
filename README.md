@@ -45,6 +45,8 @@ The reward and punishment structure are as follows:
 - -30 for falling outside the acceptable stock range.
 
 ## Model Development
+- To avoid overfitting, each model is fine-tuned using its optimal hyperparameters.
+- A grid search method with repeated cross-validation (CV) was employed to identify the ideal hyperparameters. 
 
 ### Metrics before hyperparameter tuning
 <img width="900" alt="Screenshot 2024-03-04 at 11 56 24 PM" src="https://github.com/abdulmahejabeen/Bike-Share-Demand-Prediction-and-Rebalancing/assets/56336879/1a44d3db-c26d-4f82-a63b-7ddc3e1ab879">
