@@ -23,6 +23,10 @@ Tree-Based Models: Decision Tree, Random Forest, Gradient Boosting
 
 ## Rebalancing approach
 
+
+
+![image](https://github.com/abdulmahejabeen/Bike-Share-Demand-Prediction-and-Rebalancing/assets/56336879/284bc1e6-bcda-4c67-b4f5-4746756bf8b8)
+
 The reward and punishment structure are as follows:
 
 Reward:
