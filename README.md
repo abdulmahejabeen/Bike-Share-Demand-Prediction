@@ -21,11 +21,18 @@ This Project aims to predict hourly bike share demand at a particular location o
 Linear Regression Models: Lasso, Ridge, Polynomial, Elastic
 Tree-Based Models: Decision Tree, Random Forest, Gradient Boosting
 
-## Rebalancing approach
+## Rebalancing approach - Reinforcement model
 
 As an extension to this project, attempt to create an intelligent bike station environment that can do the rebalancing activity without manual interruption, using reinforcement learning.
 
 ![image](https://github.com/abdulmahejabeen/Bike-Share-Demand-Prediction-and-Rebalancing/assets/56336879/284bc1e6-bcda-4c67-b4f5-4746756bf8b8)
+
+The reinforcement model which can implement the rebalancing strategy without much manual interruption; it is implemented using three modules:
+-  Environment: Analogous to a bike station that can simulate the bike stock either linearly or randomly based on input.
+-  Agent: Similar to the bike station operator, this sends feedback about the bike inventory, rewards or penalties assigned.
+-  Trainer: The trainer module is responsible for end-to-end processing based on input.
+
+Until a terminating state, the agent moves from one state to the next through actions performed. A reward or punishment results from the behavior in a particular state.
 
 The reward and punishment structure are as follows:
 
