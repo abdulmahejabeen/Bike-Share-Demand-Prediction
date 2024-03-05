@@ -36,12 +36,12 @@ Until a terminating state, the agent moves from one state to the next through ac
 
 The reward and punishment structure are as follows:
 
-### Reward:
+#### Reward:
 - -30 if the hourly bike stock falls outside the range [0, 100].
 - +20 if bike stock is in the range [0, 100] at 23 hours; otherwise, -20
 - -0.5 times the number of bikes eliminated every hour.
 
-### Punishment:
+#### Punishment:
 - -30 for falling outside the acceptable stock range.
 
 
