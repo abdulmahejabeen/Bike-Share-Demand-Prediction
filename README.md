@@ -10,3 +10,13 @@ DataSources Link: [Bay Wheels data](https://www.lyft.com/bikes/bay-wheels/system
 The rise in on-road vehicles and traffic congestion underscores the need for reliable transportation options. Through the utilization of bike-sharing systems, our goal is to alleviate traffic congestion, decrease Greenhouse Gas Emissions, and advocate for a healthier and eco-friendly mode of transportation.
 
 ## Data Preprocessing
+- Checked the multicollinearity across all independent variables and dropped the variables which has a variable inflation factor (VIF) greater than five.
+- Label encoding done to transform the categorical variables. 
+- Transformed the target variable with square root and logarithmic transformations for Linear regression models.
+- scaled the features for normalization.
+
+## Proposed models 
+
+
+## Rebalancing approach
+
